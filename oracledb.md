@@ -1,0 +1,5 @@
+# Oracle Database
+
+Oracle Database is a popular relational database management system and the official website for this database is: https://www.oracle.com/database/. This is a commercial database that uses a relational data model. The hosting models for the Oracle Database include client/server: across the network, and cloud: extension of client server. Java is able to access the Oracle database using the JDBC (Java Database Connectivity) API. In order to use JDBC, the user would need to add the Oracle JDBC driver to their project, the driver can be found on the official website. Python can access Oracle DB through the use of the 'cx_Oracle' module which provides Python with an extension that allows Python programs to access Oracle databases. The module needs to be installed onto a user's computer and then imported into Python code and connected to the database. 
+
+The information for the information above can be found on the official website and from this site:  https://cx-oracle.readthedocs.io/en/latest/.

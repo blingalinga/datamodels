@@ -1,0 +1,5 @@
+# Microsoft SQL Server
+
+Microsoft SQL Server is a relational database management system and the official website for this database is: https://www.microsoft.com/en-us/sql-server/. This is a commercial database that uses a relational data model. The hosting models for the Microsoft SQL Server include client/server: across the network, and cloud: extension of client server. Java is able to access the Microsoft SQL Server using the JDBC (Java Database Connectivity) API. In order to use JDBC, the user would need to add the JDBC driver to their project, the driver can be found on the official website. Python can access the Microsoft SQL Server through the use of the 'pyodbc' module which provides a standard Python DB-API interface for accessing various ODBC databases including the Microsoft SQL Server. The module needs to be installed in a user's command prompt or terminal and then imported into Python code and connected to the database. 
+
+The information for the information above can be found on the official website and from this site: https://github.com/mkleehammer/pyodbc/wiki.

@@ -1,0 +1,5 @@
+# BerkeleyDB
+
+BerkeleyDB is an embedded database library and the official website for this database is: ​​https://www.oracle.com/database/technologies/related/berkeleydb.html. This is a commercial database that uses a key-value data model. The hosting model for BerkeleyDB is local, where the database runs on the same machine as applications. Java is able to access the BerkeleyDB using the Berkeley DB Java Edition API. Users can do this by downloading and installing the Berkeley DB Java Edition from the official website and then import the API into their Java project. Once the API is imported, the database can be opened using the 'Environment' and 'Database' classes. Python is able to access BerkeleyDB using the Berkeley DB Python API. With similar steps as a user of Java, the Python user can download and install the the Python API using pip and then import the API into their Python project. Then the user can use a specific class, 'bsddb3.db.DB', to open the BerkeleyDB.
+
+The information for the information above can be found on the official website and from this site: https://docs.oracle.com/cd/E17277_02/html/index.html.
